@@ -68,13 +68,11 @@
 
 ### 💻 Featured Projects
 
-**🛡️ Sentinel Vision**  
-*Python · FastAPI · SQLite · pytest*
+**[Hackhive Vision](https://github.com/bhavika232/Hackhive/tree/sashia-backend)**  
+*Backend Engineering · Python · FastAPI · SQLite*
 
-Backend for a vision-based incident monitoring system.
-- Built REST APIs for incident ingestion, retrieval and management.
-- Implemented conversational incident querying and review workflows.
-- Developed and tested database, schema and query-processing components.
+Developed backend APIs, incident management, event ingestion,
+conversational querying and review workflows.
 
 **🧠 GRYNDR**  
 *Python · Scikit-learn · FastAPI*

@@ -66,37 +66,25 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 
+
 ### 💻 Featured Projects
 
-**[Hackhive Vision](https://github.com/bhavika232/Hackhive/tree/sashia-backend)**  
-*Backend Engineering · Python · FastAPI · SQLite*
+**🛡️ [Hackhive Vision](https://github.com/bhavika232/Hackhive/tree/sashia-backend)**  
+*Python · FastAPI · SQLite · pytest*  
+Backend development for a vision-based incident monitoring system, including event ingestion, incident management, conversational querying and review workflows.
 
-Developed backend APIs, incident management, event ingestion,
-conversational querying and review workflows.
+**🧠 [GRYNDR](https://github.com/sashiatuli/gryndr)**  
+*Python · Scikit-learn · FastAPI*  
+ML-powered study planner with topic difficulty prediction and adaptive study plans.
 
-**🧠 GRYNDR**  
-*Python · Scikit-learn · FastAPI*
-
-An ML-powered study planner that predicts topic difficulty and generates adaptive study plans.
-- Built a synthetic data generation and model training pipeline.
-- Evaluated model performance using test metrics and cross-validation.
-- Explored backend integration for model predictions.
-
-**🔗 LNKR**  
-*React · FastAPI · PostgreSQL · JWT*
-
-An AI-powered bookmark organiser for students and creators.
-- Building a full-stack application for saving and organising links.
-- Working on authentication, folders, tags, search and favourites.
-- Designed around a modular backend and relational database.
+**🔗 [LNKR](https://github.com/sashiatuli/lnkr)**  
+*React · FastAPI · PostgreSQL · JWT*  
+AI-powered bookmark organiser with authentication, folders, tags and search.
 
 **☁️ Cloud Cost Optimization**  
-*Python · Scikit-learn · AWS · Pandas*
+*Python · Scikit-learn · AWS · Pandas*  
+Anomaly detection system for identifying inefficient cloud resource utilisation.
 
-An anomaly-detection system for identifying inefficient cloud resource utilisation.
-- Implemented Isolation Forest-based anomaly detection.
-- Worked with cloud billing and resource metrics.
-- Led a four-member team to the Top 19 in a 100-team hackathon.
 
 ### 🌱 Currently Learning
 

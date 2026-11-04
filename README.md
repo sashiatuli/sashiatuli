@@ -109,7 +109,6 @@ An anomaly-detection system for identifying inefficient cloud resource utilisati
 
 ---
 
-<p align="center">
-  <i>less talking, more building.</i> ♡
+ 
 </p>
 
